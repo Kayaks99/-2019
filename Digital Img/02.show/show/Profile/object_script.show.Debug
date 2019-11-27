@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\operation.o
+./debug\qcustomplot.o
+./debug\bmp2txt.o
+./debug\a2b.o
+./debug\opencv.o
+./debug\multiply.o
+./debug\zip.o
+./debug\newzip.o
+./debug\painttree.o
+./debug\moc_mainwindow.o
+./debug\moc_qcustomplot.o
+./debug\moc_bmp2txt.o
+./debug\moc_painttree.o
+);
